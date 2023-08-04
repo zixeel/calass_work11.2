@@ -1,3 +1,8 @@
 def func(word):
-    """док стринг1"""
+    """ДОК СТРИНГ"""
     return word.title()
+
+
+def func2(word):
+    """ДОК СТРИНГ 2"""
+    return word.upper()
